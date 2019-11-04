@@ -1,4 +1,7 @@
 class Dog
 
+def name
+  return name
 end
-Lassie = Dog.new
+end
+Lassie = Dog.name
