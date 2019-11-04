@@ -1,3 +1,4 @@
 class Dog
-name = "Lassie"
+
 end
+Dog.new = "Lassie"
